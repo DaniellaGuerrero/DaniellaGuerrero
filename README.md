@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Daniella Guerrero! 👋
 
-<!--
-**DaniellaGuerrero/DaniellaGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a dedicated BS Information Technology student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *BS Information Technology*
+  - New Era University
+  - 2024–Present
+
+## Certification
+
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates)
+
+
+## Skill Sets
+
+- *Programming:* Java, PHP
+- *Databases:* SQL
+- *Tools:* Lucidchart, Eclipse, HTML
+
+## Let's Connect!
+
+- *Email:* [daniellaguerrero11302020@gmail.com](mailto:daniellaguerrero11302020@gmail.com)
